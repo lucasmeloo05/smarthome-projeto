@@ -187,8 +187,6 @@ Teste realizado utilizando:
 mosquitto_sub
 ```
 
-![alt text](<Screenshot 2026-06-11 224743.png>)
-
 conectado ao broker HiveMQ Cloud.
 
 Resultado:
@@ -220,7 +218,7 @@ Funcionalidades disponíveis:
 Adicionar:
 
 ```text
-COLE_AQUI_SEU_LINK_DO_WOKWI
+https://wokwi.com/projects/465239888594155521
 ```
 
 ---
@@ -230,7 +228,7 @@ COLE_AQUI_SEU_LINK_DO_WOKWI
 Adicionar:
 
 ```text
-COLE_AQUI_SEU_LINK_DO_VERCEL
+https://smarthome-projeto.vercel.app/
 ```
 
 ---
@@ -240,7 +238,7 @@ COLE_AQUI_SEU_LINK_DO_VERCEL
 Adicionar:
 
 ```text
-COLE_AQUI_SEU_LINK_DO_GITHUB
+https://github.com/lucasmeloo05/smarthome-projeto/
 ```
 
 ---
