@@ -13,7 +13,7 @@ O sistema permite monitorar temperatura, umidade e presença em tempo real, alé
 * Gabriel Gama de Sousa Rezende
 * Gabriel Nogueira Rezende
 * Gabriel Pereira Rodrigues
-* Heraldo Fagundes Tomaza Junior
+* Heraldo Fagundes Tomaz Junior
 * Lucas Mendes Polonio de Melo
 
 ---
